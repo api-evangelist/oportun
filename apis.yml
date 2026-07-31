@@ -1,8 +1,24 @@
 aid: oportun
 name: Oportun
-description: 'Oportun is a company surfaced as a portfolio company of crv, greylock, ivp and added to
-  the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Oportun (Nasdaq: OPRT) is a mission-driven financial services company and U.S. Treasury-certified
+  Community Development Financial Institution (CDFI) that provides responsible, affordable personal loans,
+  savings, and budgeting tools to people with limited or no credit history. Founded in 2006, Oportun has
+  disbursed more than $20.8 billion across 7.7 million loans and established credit history for over 1.3
+  million people. Beyond its consumer app, Oportun runs an Enterprise Platform offering Lending-as-a-Service
+  (LaaS) and embedded-finance partnerships, but publishes no public developer portal, OpenAPI specification,
+  SDKs, or self-serve API; the LaaS integration API is available only through contact-gated enterprise partnerships.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://oportun.com/wp-content/uploads/2023/03/Oportun_rgb.png
 url: https://raw.githubusercontent.com/api-evangelist/oportun/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Fintech
+- Lending
+- Consumer Finance
+- Loans
+- Savings
+- CDFI
+- Embedded Finance
+- Lending as a Service
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +50,22 @@ maintainers:
 common:
 - type: Website
   url: https://oportun.com/
+- type: About
+  url: https://oportun.com/about/
+- type: Blog
+  url: https://oportun.com/engineering-blog/
+- type: Support
+  url: https://oportun.com/help/
+- type: TermsOfService
+  url: https://oportun.com/terms/
+- type: PrivacyPolicy
+  url: https://oportun.com/privacy-policy/
+- type: DomainSecurity
+  url: security/oportun-domain-security.yml
+- type: LLMsTxt
+  url: llms/oportun-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

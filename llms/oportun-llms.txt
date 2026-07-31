@@ -1,0 +1,20 @@
+# Oportun
+
+> Oportun (Nasdaq: OPRT) is a mission-driven fintech and U.S. Treasury-certified CDFI providing responsible, affordable personal loans, savings, and budgeting tools to people with limited or no credit history. It also runs an Enterprise Platform offering Lending-as-a-Service (LaaS) and embedded-finance partnerships. No public developer portal, OpenAPI specification, SDKs, or self-serve API is published; the LaaS integration API is offered only through contact-gated enterprise partnerships.
+
+## Company
+- [Oportun home](https://oportun.com/): Loans, savings, and budgeting for underserved consumers.
+- [About Oportun](https://oportun.com/about/): Mission, CDFI status, and company facts.
+- [Investor relations](https://investor.oportun.com/): Financials and filings for Nasdaq: OPRT.
+
+## Products
+- [Enterprise Platform (LaaS)](https://oportun.com/oportun-enterprise-platform/): Lending-as-a-Service and embedded-finance solutions for partners; LaaS Lite integrates via a partner API (enterprise contact only, no public docs).
+
+## Engineering & Support
+- [Engineering blog](https://oportun.com/engineering-blog/): Data engineering and machine learning posts.
+- [Help center](https://oportun.com/help/): Customer support and FAQs.
+- [Contact](https://oportun.com/contact-us/): General and enterprise partnership contacts.
+
+## Legal
+- [Terms](https://oportun.com/terms/)
+- [Privacy policy](https://oportun.com/privacy-policy/)

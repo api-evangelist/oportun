@@ -7,6 +7,17 @@ description: 'Oportun (Nasdaq: OPRT) is a mission-driven financial services comp
   million people. Beyond its consumer app, Oportun runs an Enterprise Platform offering Lending-as-a-Service
   (LaaS) and embedded-finance partnerships, but publishes no public developer portal, OpenAPI specification,
   SDKs, or self-serve API; the LaaS integration API is available only through contact-gated enterprise partnerships.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
